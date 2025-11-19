@@ -2,3 +2,8 @@
 plugin: servicenow.itsm.now
 table: cmdb_ci_linux_server
 strict: false
+group_by:
+  manufacture:
+  os:
+    includes:
+      - Linux Red Hat
