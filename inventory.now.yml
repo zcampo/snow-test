@@ -1,0 +1,4 @@
+---
+plugin: servicenow.itsm.now
+table: cmdb_ci_linux_server
+strict: false
