@@ -7,3 +7,13 @@ group_by:
   os:
     includes:
       - Linux Red Hat
+columns:
+  - name
+  - ip_address
+  - os_domain
+  - host_name
+  - os_version
+  - ram
+  - cpu_manufacturer
+  - cpu_type
+  - cpu_count
